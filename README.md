@@ -1,5 +1,5 @@
 # app.vwo.com-Test-Automation-and-Bug-Tracking
-# VWO Test Automation and Bug Tracking
+
 
 ## Project Overview
 VWO Test Automation and Bug Tracking is a comprehensive testing project aimed at ensuring the quality and functionality of the **VWO (Visual Website Optimizer)** platform. The project involved designing and executing test cases for key features like A/B testing, personalization campaigns, heatmaps, and multivariate testing. Automation of repetitive test scenarios was done using **Python** and **Selenium** to improve testing efficiency.
